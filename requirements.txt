@@ -1,0 +1,5 @@
+pathlib
+easyocr>=1.6
+numpy>=1.24
+pdf2image>=1.16
+Pillow>=10.0
